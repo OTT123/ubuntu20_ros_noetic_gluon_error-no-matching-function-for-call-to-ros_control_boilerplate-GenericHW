@@ -8,6 +8,10 @@ error: no matching function for call to
 
 (ros::NodeHandle&, boost::shared_ptr<gluon_control::GluonHWInterface>&)’
 ```
+### 如下图
+
+![image](https://github.com/OTT123/ubuntu20_ros_noetic_gluon_error-no-matching-function-for-call-to-ros_control_boilerplate-GenericHW/blob/main/pic/gluon_std_ptr.png)
+
 ## 原文连接
 >版权声明：本文为CSDN博主「hyxxi」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
 >
